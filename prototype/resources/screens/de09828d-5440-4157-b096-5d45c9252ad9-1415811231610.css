@@ -1,0 +1,53 @@
+#s-de09828d-5440-4157-b096-5d45c9252ad9 {
+  background-color: transparent;
+  background-image: none;
+  min-width: 344px;
+  min-height: 293px;
+}
+#s-de09828d-5440-4157-b096-5d45c9252ad9 > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-de09828d-5440-4157-b096-5d45c9252ad9 #s-Image_27 {
+  position: absolute;
+  top: 285px;
+  left: 19px;
+  width: 325px;
+  height: 8px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-de09828d-5440-4157-b096-5d45c9252ad9 #s-Label_1 {
+  position: absolute;
+  top: 247px;
+  left: 19px;
+  width: 325px;
+  height: 30px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Regular,Arial;
+  font-size: 11pt;
+  line-height: 11pt;
+}
+#s-de09828d-5440-4157-b096-5d45c9252ad9 #s-Label_1 .valign {
+  vertical-align: middle;
+}
+.ui-page {
+  overflow-x: hidden;
+}
+#s-de09828d-5440-4157-b096-5d45c9252ad9 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
